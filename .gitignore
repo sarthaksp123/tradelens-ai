@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Private trade data
+data/
+vectorstore/
+reports/
+*.csv
+*.tsv
+*.txt
+
+# Secrets / local files
+.env
+.DS_Store
+.streamlit/secrets.toml
