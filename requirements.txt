@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+plotly
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
+python-dotenv
+tabulate
